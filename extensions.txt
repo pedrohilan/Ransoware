@@ -1,0 +1,18 @@
+extensions = [
+				  'exe','dll','so','deb','vmlinuz','img', #Arquivos do Sitema
+				  'jpg', 'jpeg', 'png', 'bmp', 'gif', 'svg', 'psd', 'raw', #imagens
+				  'mp3', 'mp4', 'm4a', 'aac', 'ogg', 'flac', 'wav', 'wma', 'aiff', 'ape', #audios
+				  'avi', 'flv', 'm4v', 'mkv', 'mov', 'mpg', 'mpeg', 'wmv', 'swf', '3gp', #videos
+				  'doc', 'docx', 'xls', 'xlsx', 'ppt', 'pptx', #Microsoft office
+				  #OpenOffice, Adobe, Latex, Markdown, etc
+				  'odt', 'odp', 'ods', 'txt', 'rtf', 'tex', 'pdf', 'epub', 'md', 
+				  'yml', 'yaml', 'json', 'xml', 'csv', #dados estruturados e config
+				  'db', 'sql', 'dbf', 'mdb', 'iso', #banco de dados e imagens de disco
+				  'html', 'htm', 'xhtml', 'php', 'asp', 'aspx', 'js', 'jsp', 'css', #tecnologias web
+				  'c', 'cpp', 'cxx', 'h', 'hpp', 'hxx', #codigo fonte c e c++
+				  'java', 'class', 'jar', #codigos fonte java
+				  'ps', 'bat', 'vb', #scripts de sistema windows
+				  'awk', 'sh', 'cgi', 'pl', 'ada', 'swift', #scripts de sistema unix
+				  'go', 'py', 'pyc', 'bf', 'coffe', #outros tipos de codigos fonte
+				  'zip', 'tar', 'tgz', 'bz2', '7z', 'rar', 'bak', #arquivos compactados e backups
+				 ]
